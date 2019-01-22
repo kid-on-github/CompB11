@@ -8,10 +8,15 @@
 */
 
 public class MyName {
+    
     public static void main(String[] args) {
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
+        String name = "\n"
+        + " ####  ####   ##   ##   ##   ###### \n"
+        + " ## #### ##        ##  ##    ##     \n"
+        + " ##  ##  ##   ##   ####      ####   \n"
+        + " ##      ##   ##   ##  ##    ##     \n"
+        + " ##      ##   ##   ##   ##   ###### \n";
+        System.out.println(name);
     }
 }
+
