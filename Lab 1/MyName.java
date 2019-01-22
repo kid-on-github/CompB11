@@ -10,13 +10,15 @@
 public class MyName {
     
     public static void main(String[] args) {
-        String name = "\n"
+    
+        String myName = "\n"
         + " ####  ####   ##   ##   ##   ###### \n"
         + " ## #### ##        ##  ##    ##     \n"
         + " ##  ##  ##   ##   ####      ####   \n"
         + " ##      ##   ##   ##  ##    ##     \n"
         + " ##      ##   ##   ##   ##   ###### \n";
-        System.out.println(name);
+
+        System.out.println(myName);
     }
 }
 
