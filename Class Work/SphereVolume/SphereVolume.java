@@ -1,5 +1,5 @@
 /*
-* This program prints "Hello World".
+* This program prints "The volume of a sphere".
 *
 * @author Mike Peterson
 * Course: COMP B11
