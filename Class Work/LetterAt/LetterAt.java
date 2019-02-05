@@ -5,7 +5,7 @@
 * @author Michael Peterson and Alejandra Zapata
 * Course: COMP B11
 * Created: Feb 5, 2019
-* Source File: IfAndString.java
+* Source File: LetterAt.java
 */
 
 import java.util.Scanner;
