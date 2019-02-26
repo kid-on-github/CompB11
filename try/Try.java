@@ -12,10 +12,7 @@
 public class Try {
 	public static void main(String[] args) {
 
-		System.out.println("abc".compareTo("ABC"));
-		System.out.println("ABC".compareTo("abc"));
-		System.out.println("abC".compareTo("abc"));
-		
+		System.out.println((int)1.5/2.5+-2);
 		
 	}
 }
