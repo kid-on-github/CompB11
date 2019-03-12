@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CheckForABC",
+            "request": "launch",
+            "mainClass": "CheckForABC"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Add",
+            "request": "launch",
+            "mainClass": "Add"
+        }
+    ]
+}

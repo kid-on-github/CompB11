@@ -1,0 +1,8 @@
+/*
+ * Example Input: 
+ * Achilles 0
+ * JASON 1
+ * Achilles 1
+ * JASON 5
+ * GREEK GREATS 9
+*/
