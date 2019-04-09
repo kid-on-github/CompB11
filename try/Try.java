@@ -1,18 +1,18 @@
+import java.awt.Canvas;
+import java.awt.Graphics;
+import javax.swing.JFrame;
 
-/* 
-* This program asks for word and states if the word begins with the letter a. 
-*
-* @author Alejandra Zapata and Michael Peterson
-* Course: COMP B11
-* Created: Jan 31, 2019
-* Source File: IfAndString.java
-*/
+public class Try extends Canvas {
+    public static void main(String[] args) {
+        JFrame frame = new JFrame("My Drawing");
+        Canvas canvas = new Try();
+        canvas.setSize(400, 400);
+        frame.add(canvas);
+        frame.pack();
+        frame.setVisible(true);
+    }
 
-
-public class Try {
-	public static void main(String[] args) {
-
-		System.out.println((int)1.5/2.5+-2);
-		
-	}
+    public void paint(Graphics g) {
+		g.drawLine(0, 0, 200, 200);
+    }
 }
